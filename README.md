@@ -66,6 +66,31 @@ Optimized for mobile, tablet, and desktop views for better accessibility.
 # Screenshots
 
 # Home Page
+![Screenshot 2025-01-21 105837](https://github.com/user-attachments/assets/57899a7d-3bd9-46ab-9bfc-3cc2142b7dcb)
+
+# Register Page
+![Screenshot 2025-01-21 105911](https://github.com/user-attachments/assets/958403e6-2715-45c8-b545-ef933299b90c)  ![Screenshot 2025-01-21 105939](https://github.com/user-attachments/assets/992ff9b8-3901-483e-9f1e-ccb4980cd37a)
+
+# Login
+![Screenshot 2025-01-21 105952](https://github.com/user-attachments/assets/e56bf232-92ba-4433-ae17-6499b022aae9)
+
+# Patient Page
+![Screenshot 2025-01-21 122225](https://github.com/user-attachments/assets/6393d94e-1e7b-4512-a813-c1713c0ce9bd)
+![Screenshot 2025-01-21 122243](https://github.com/user-attachments/assets/f1837646-24c5-4973-8fca-b572d7a69ead)
+![Screenshot 2025-01-21 122257](https://github.com/user-attachments/assets/bb97078f-7202-4284-85f2-d8c76a0bf9ea)
+![Screenshot 2025-01-21 122314](https://github.com/user-attachments/assets/016c38d7-564a-4c12-bf13-85aaf62f7ed2)
+![Screenshot 2025-01-21 122326](https://github.com/user-attachments/assets/726cbfe0-a5f9-4ef4-b6de-9ad27efa0122)
+![Screenshot 2025-01-21 122342](https://github.com/user-attachments/assets/67d0a5af-a49b-471d-94f3-ec5bafd0297d)
+
+# Admin-Dashboard
+
+![Screenshot 2025-01-21 122424](https://github.com/user-attachments/assets/83a586b2-bd22-4dcd-824c-c3ee125f71c4)
+![Screenshot 2025-01-21 122450](https://github.com/user-attachments/assets/b165a10c-25b8-4a00-9feb-2f44dd8d243c)
+![Screenshot 2025-01-21 122528](https://github.com/user-attachments/assets/156f778b-de70-4280-9681-7df055ede99d)
+![Screenshot 2025-01-21 122547](https://github.com/user-attachments/assets/157876ee-f0a1-496e-96d5-db6d9f2d6ae4)
+![Screenshot 2025-01-21 122603](https://github.com/user-attachments/assets/41a559f0-2639-4d6d-9aa3-4de3a8e9f58d)
+
+
 
 
 
