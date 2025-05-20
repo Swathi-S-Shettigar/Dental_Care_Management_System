@@ -74,9 +74,11 @@ https://drive.google.com/file/d/1zSUZDJWoWmjvFBQROUGAgg_HxWHNk9E3/view?usp=shari
 ![Screenshot 2025-01-21 122547](https://github.com/user-attachments/assets/157876ee-f0a1-496e-96d5-db6d9f2d6ae4)
 ![Screenshot 2025-01-21 122603](https://github.com/user-attachments/assets/41a559f0-2639-4d6d-9aa3-4de3a8e9f58d)
 
+# Doctor-Dashboard
+![Screenshot 2025-05-20 141006](https://github.com/user-attachments/assets/cf1acff3-4ae2-4d5e-b01e-ce1ea275722d)
+![Screenshot 2025-05-20 141012](https://github.com/user-attachments/assets/9d7ea815-b46a-4564-b1bc-31b9680e7ac8)
 
-
-
+![Screenshot 2025-05-20 141006](https://github.com/user-attachments/assets/689c385b-2e7f-476e-94c7-e9eabc51d11d)
 
 
 
