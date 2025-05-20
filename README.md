@@ -77,9 +77,7 @@ https://drive.google.com/file/d/1zSUZDJWoWmjvFBQROUGAgg_HxWHNk9E3/view?usp=shari
 # Doctor-Dashboard
 ![Screenshot 2025-05-20 141006](https://github.com/user-attachments/assets/cf1acff3-4ae2-4d5e-b01e-ce1ea275722d)
 ![Screenshot 2025-05-20 141012](https://github.com/user-attachments/assets/9d7ea815-b46a-4564-b1bc-31b9680e7ac8)
-
-![Screenshot 2025-05-20 141006](https://github.com/user-attachments/assets/689c385b-2e7f-476e-94c7-e9eabc51d11d)
-
+![Screenshot 2025-05-20 141018](https://github.com/user-attachments/assets/5415628c-09b9-4ac0-9e2b-b5fb4ddf05db)
 
 
 
