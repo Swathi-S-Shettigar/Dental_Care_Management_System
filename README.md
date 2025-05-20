@@ -1,51 +1,46 @@
 # Dental_Care_Management_System
 
 # Description
-The Dental Care Website is a dynamic web application designed to streamline dental clinic operations and enhance patient experience. The platform offers a user-friendly interface where patients can learn about available dental services, book appointments seamlessly, and connect with the clinic for inquiries. Built with modern web development technologies, this project ensures a responsive and interactive experience across all devices.
-
-The backend, powered by PHP and MySQL, handles secure data management for appointments, user details, and contact queries. The frontend employs HTML, CSS, and JavaScript to create an intuitive and visually appealing layout. The project is developed to be hosted locally using XAMPP, making it easy to deploy and test.
-
-# Objectives
-- User-friendly interface for patients to book appointments.
-- Display of dental care services with descriptions.
-- Contact form to reach out for inquiries.
-- Database integration for managing appointments and user data.
+The **Dental Management System** is a dynamic and comprehensive web-based application designed to streamline dental clinic operations and enhance the patient experience. It features dedicated dashboards for **Patients**, **Doctors**, and **Admins**, offering a user-friendly interface where patients can explore available services, book appointments seamlessly,while doctors and admins can efficiently manage sessions, appointments, and overall clinic workflows. Built using modern web technologies, the platform ensures a responsive, interactive, and accessible experience across all devices.
 
 # Features
-# 1. Homepage:
-Welcomes users with an overview of the clinic and its specialties.
-Highlights core services with engaging visuals.
+**Patient Portal**
+**Registration & Login:** Patients can register or log in using a secure authentication system.
 
-# 2. Services Page:
-Detailed descriptions of dental procedures offered (e.g., cleaning, whitening, orthodontics).
-Information to help patients choose the right service for their needs.
+**Book Appointments:** View available doctors and treatment sessions, and book appointments based on time slots and availability.
 
-# 3. Appointment Booking:
-An intuitive form to book appointments by selecting preferred dates and times.
-Backend validation to prevent booking conflicts.
+**Manage Profile:** Update personal details, or delete their account if needed.
 
-# 4. Contact Us:
-A responsive contact form to submit questions or concerns.
-Backend integration for storing queries and sending acknowledgment responses.
+**Appointment Overview:** View bookings and cancel if required.
 
-# 5. Admin Panel (if applicable):
-Manage appointments, view contact messages, and update service offerings.
-Secure authentication for admin access.
+**Doctor Dashboard:**
+**Doctor Login:** Doctors log in securely using email and password.
 
-# 6. Responsive Design:
-Optimized for mobile, tablet, and desktop views for better accessibility.
+**View Appointments:** See all patients booked for their sessions, organized by date and time.
+
+**Session Management:** Edit or delete their own treatment sessions and monitor session capacity.
+
+**Admin Panel:**
+**Manage Doctors:** Add new doctor profiles with details like specialization and contact information.
+
+**Session Creation:** Define treatment sessions, assign them to doctors, and set the maximum number of patient bookings.
+
+**Edit & Delete:** Admins can edit or delete doctors and their sessions at any time.
+
+**Monitor Operations:** Keep track of appointments across the system for better clinic workflow.
+
 
 # Technologies Used
-- HTML, CSS, JavaScript for the front-end
-- PHP for back-end development
-- MySQL for database management
-- XAMPP for local server setup
+**Frontend:** HTML, CSS, JavaScript
+**Backend:** PHP
+**Database:** MySQL
 
+Server Environment: XAMPP / Apache (Localhost)
 # Installation and Setup
 1. Download and install [XAMPP](https://www.apachefriends.org/index.html).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/dental-care.git
+   git clone https://github.com/Swathi-S-Shettigar/Dental_Care_Management_System.git
    ```
 3. Move the project folder to the `htdocs` directory of your XAMPP installation.
 4. Import the database:
@@ -57,10 +52,7 @@ Optimized for mobile, tablet, and desktop views for better accessibility.
    ```bash
    http://localhost/dental-care/index.php
    ```
-# Usage
-- Navigate to the homepage to view services.
-- Use the appointment booking feature to schedule visits.
-- Explore the contact page to reach out with questions or concerns.
+
 
 ## Demo Video
 https://drive.google.com/file/d/1zSUZDJWoWmjvFBQROUGAgg_HxWHNk9E3/view?usp=sharing
