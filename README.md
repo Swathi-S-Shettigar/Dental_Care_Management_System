@@ -4,38 +4,29 @@
 The **Dental Management System** is a dynamic and comprehensive web-based application designed to streamline dental clinic operations and enhance the patient experience. It features dedicated dashboards for **Patients**, **Doctors**, and **Admins**, offering a user-friendly interface where patients can explore available services, book appointments seamlessly,while doctors and admins can efficiently manage sessions, appointments, and overall clinic workflows. Built using modern web technologies, the platform ensures a responsive, interactive, and accessible experience across all devices.
 
 # Features
-**Patient Portal**
-**Registration & Login:** Patients can register or log in using a secure authentication system.
+**Patient Portal** 
+- **Registration & Login:** Patients can register or log in using a secure authentication system.
+- **Book Appointments:** View available doctors and treatment sessions, and book appointments based on time slots and availability.
+- **Manage Profile:** Update personal details, or delete their account if needed.
+- **Appointment Overview:** View bookings and cancel if required.
 
-**Book Appointments:** View available doctors and treatment sessions, and book appointments based on time slots and availability.
-
-**Manage Profile:** Update personal details, or delete their account if needed.
-
-**Appointment Overview:** View bookings and cancel if required.
-
-**Doctor Dashboard:**
-**Doctor Login:** Doctors log in securely using email and password.
-
-**View Appointments:** See all patients booked for their sessions, organized by date and time.
-
-**Session Management:** Edit or delete their own treatment sessions and monitor session capacity.
+**Doctor Dashboard**
+- **Doctor Login:** Doctors log in securely using email and password.
+- **View Appointments:** See all patients booked for their sessions, organized by date and time.
+- **Session Management:** Edit or delete their own treatment sessions and monitor session capacity.
 
 **Admin Panel:**
-**Manage Doctors:** Add new doctor profiles with details like specialization and contact information.
-
-**Session Creation:** Define treatment sessions, assign them to doctors, and set the maximum number of patient bookings.
-
-**Edit & Delete:** Admins can edit or delete doctors and their sessions at any time.
-
-**Monitor Operations:** Keep track of appointments across the system for better clinic workflow.
+- **Manage Doctors:** Add new doctor profiles with details like specialization and contact information.
+- **Session Creation:** Define treatment sessions, assign them to doctors, and set the maximum number of patient bookings.
+- **Edit & Delete:** Admins can edit or delete doctors and their sessions at any time.
+- **Monitor Operations:** Keep track of appointments across the system for better clinic workflow.
 
 
 # Technologies Used
-**Frontend:** HTML, CSS, JavaScript
-**Backend:** PHP
-**Database:** MySQL
-
-Server Environment: XAMPP / Apache (Localhost)
++ **Frontend:** HTML, CSS, JavaScript
++ **Backend:** PHP
++ **Database:** MySQL
++ **Server Environment:** XAMPP / Apache (Localhost)
 # Installation and Setup
 1. Download and install [XAMPP](https://www.apachefriends.org/index.html).
 2. Clone this repository:
