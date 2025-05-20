@@ -37,7 +37,7 @@ The **Dental Management System** is a dynamic and comprehensive web-based applic
 4. Import the database:
    - Open phpMyAdmin at `http://localhost/phpmyadmin`.
    - Create a new database (e.g., `dental_care`).
-   - Import the provided SQL file located in the `database` folder.
+   - Import the provided SQL file database.sql
 5. Start the XAMPP Apache and MySQL services.
 6. Open the project in your browser:
    ```bash
